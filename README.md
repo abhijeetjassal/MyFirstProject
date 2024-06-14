@@ -1,2 +1,3 @@
 # MyFirstProject
-Created a machine learning project that tells the probability of baggage and wheelchairs mishandling by the American Carriers
+This is a fun little project to get myself started in the world of Data analysis/science. I came across an interesting dataset on data.gov that tracked mishandled baggage and wheelchairs by American carriers in US. I decided to look deeper into the dataset using python/pandas. The data insights from the analyzed inspired me to create a machine learning project that tells the probability of baggage and wheelchairs mishandling by the American Carriers.
+Used gradio to deploy a web application that can help users pick a specific carrier and check the probability of baggage and wheelchairs being misplaced.
